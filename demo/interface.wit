@@ -1,2 +1,1 @@
 say-something: function() -> string
-hello: function()
